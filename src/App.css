@@ -1,0 +1,27 @@
+.App{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.Tennis{
+   max-width:400px;
+    background-color: rgba(245, 245, 245, 0.507);
+    padding: 10px;
+    margin: 100px auto;
+    border-radius: 10px;
+  
+}
+
+.Tennis>.timer{
+    color: black;
+    font-family: monospace;
+    text-align: center;
+    
+}
+
+span,h1{
+    font-family: cursive;
+}
+
